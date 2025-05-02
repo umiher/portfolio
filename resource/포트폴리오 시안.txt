@@ -1,0 +1,16 @@
+러프 스케치
+
+
+background color : 000
+main text color1 : CAEC33 / rgba(202, 236, 51, 0.8)
+main text color2 : fff
+sub color : 95D32D
+
+
+
+
+A web publisher
+who learns, creates,
+and develops websites
+
+
