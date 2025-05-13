@@ -12,7 +12,7 @@
 
 >[Portfolio](https://www.portfolio.com)
 
-![image](https://www.fortfolio.com)
+![image](https://github.com/user-attachments/assets/9e9e20e7-cc34-4df5-8610-6f784a0f8af6)
 
 <br>
 
