@@ -2,6 +2,7 @@
 <h1>Yoomi Portfolio 📚</h1>
 이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
 </div>
+<img width=90% src=
 
 <br>
 <br>
@@ -31,7 +32,9 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
 <br>
 
 ## 🔖 주요 특징
-
+#### 디자인 : 
+#### 애니메이션 : 
+#### 기술스택 : 
 
 <br>
 <br>
