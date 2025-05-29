@@ -31,6 +31,12 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
 <br>
 
 ## 🔖 주요 특징
+
+
+<br>
+<br>
+
+## 📂 주요 프로젝트
 ### 1. Artcenter Nabi 리뉴얼
 - 기술스택 : JavaScript, HTML, CSS3
 - 상세설명 :
@@ -51,12 +57,6 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
 - 상세설명 :
   * GSAP를 활용하여 스크롤 애니메이션 및 다양한 UI구현
   * 직관적인 네비게이션, 모바일 메뉴, 위치 기반 시각적 효과로 모바일과 웹에서 최적화된 사용자 경험을 제공
-
-<br>
-<br>
-
-## 📂 주요 프로젝트
-
 
 
 
