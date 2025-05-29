@@ -1,10 +1,11 @@
 <div align="center">
 <h1>Yoomi Portfolio 📚</h1>
 이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
-<br>
-
 </div>
 
+<br>
+
+<image width="100%" src="portfolio page.gif"></image>
 <br>
 <br>
 
