@@ -37,10 +37,11 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
 <br>
 
 ## 📂 주요 프로젝트
-### 1. Artcenter Nabi 리뉴얼
-- 기술스택 : JavaScript, HTML, CSS3
+### 1. Design Power 리뉴얼
+- 기술스택 : JavaScript, GSAP, HTML, CSS3
 - 상세설명 :
-  * 
+  * Design Power는 기업을 소개하기 위한 반응형 웹 사이트
+  * GSAP 라이브러리를 사용하여 자연스러운 애니메이션 효과를 적용
 
 <br>
 
