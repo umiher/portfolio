@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Yoomi Portfolio 📚</h1>
-이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.<br>
-(https://github.com/user-attachments/assets/6f8681a6-a768-4c17-ad37-6a109620cd37)
+이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
+<br>
+[]<video src="https://github.com/user-attachments/assets/6f8681a6-a768-4c17-ad37-6a109620cd37"></video>
 </div>
 
 <br>
