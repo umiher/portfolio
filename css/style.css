@@ -386,7 +386,7 @@ body.fixed {
 	right: 40px;
 	bottom: 40px;
 	margin-left: auto;
-	z-index: 10000;
+	z-index: 9999;
 }
 #header .icon i {
 	display: inline-block;
