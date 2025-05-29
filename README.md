@@ -41,7 +41,7 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
 - 기술스택 : JavaScript, GSAP, Mobile Navigation, HTML, CSS3
 - 상세설명 :
   * Design Power는 기업을 소개하기 위한 반응형 웹 사이트로 제작
-  * GSAP 라이브러리를 사용하여 자연스러운 애니메이션 효과를 적용
+  * GSAP 라이브러리를 사용하여 자연스러운 애니메이션 효과 구현
 
 <br>
 
