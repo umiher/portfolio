@@ -1,10 +1,11 @@
 <div align="center">
 <h1>Yoomi Portfolio 📚</h1>
 이 포트폴리오는 저의 전문적 개발 역량과 실전 프로젝트 경험을 바탕으로 제작되었습니다.
-<br>
-<video src="https://github.com/user-attachments/assets/972498d1-5a8b-408a-8937-16255b3d6b46"></video>
 </div>
 
+<br>
+
+<image width="100%" src="portfolio page.gif"></image>
 <br>
 <br>
 
@@ -33,9 +34,12 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
 <br>
 
 ## 🔖 주요 특징
-#### 디자인 : 
+#### 디자인 :
+* 반응형 레이아웃과 사용자 경험을 최우선으로 고려한 직관적인 디자인 구성
 #### 애니메이션 : 
+* GSAP와 ScrollTrigger, Swiper.js 등을 활용한 부드럽고 매끄러운 화면 전환 및 동적 애니메이션 효과 구현
 #### 기술스택 : 
+* JavaScript를 기반으로 최신 기술 스택을 사용하여 효율적이고 트렌디한 웹 페이지 개발
 
 <br>
 <br>
@@ -63,9 +67,11 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
   * GSAP를 활용하여 스크롤 애니메이션 및 다양한 UI구현
   * 직관적인 네비게이션, 모바일 메뉴, 위치 기반 시각적 효과로 모바일과 웹에서 최적화된 사용자 경험을 제공
 
+<br>
+<br>
 
-
-
+## 💬 Contact
+#### E-mail : uumih98@gmail.com
 
 
 
