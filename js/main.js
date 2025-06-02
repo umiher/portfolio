@@ -13,7 +13,7 @@ window.addEventListener("load", function(){
 	setTimeout(function(){
 		document.body.classList.remove("fixed");
 		
-		gsap.to(intro, { opacity: 0, duraton: 2, onComplete: function(){
+		gsap.to(intro, { opacity: 0, duration: 0.4, onComplete: function(){
 			intro.remove();
 
 			headerTl.to("#header .text_zone img, #header .text_zone p", { y: 0, opacity: 1, duration: 0.5 });
