@@ -316,15 +316,11 @@ window.addEventListener("load", function(){
 	});
 
 	/* contact */
-	const contactTl=gsap.timeline({
-		scrollTrigger: {
-			trigger: "#footer",
-			start: "top center",
-			// markers: true
-		}
-	});
+	const contactTl=gsap.timeline({});
 
-	contactTl.from("#footer .sub-topic", { y: 20, opacity: 0, duration: 0.5 });
+	contactTl.set("#footer .sub-topic", { y: 20, opacity: 0 });
+	contactTl.set("#footer .desc", { y: 20, opacity: 0 });
 
-	contactTl.from("#footer .desc", { y: 20, opacity: 0, duration: 1 });
+	contactTl.to("#footer .sub-topic", { y: 0, opacity: 1, duration: 0.5 });
+	contactTl.to("#footer .desc", { y: 0, opacity: 1, duration: 1 });
 });

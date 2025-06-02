@@ -35,7 +35,7 @@ body.fixed {
 
 /* intro */
 .intro {
-	display: flex;
+	display: none;
 	position: fixed;
 	justify-content: center;
 	align-items: center;
@@ -437,19 +437,16 @@ body.fixed {
 	border-radius: 10px;
 }
 @media only screen and (max-width: 1420px) {
-	#aboutme .moving_frame .column {
-		width: calc((100% - 50px)/2);
+	#aboutme .moving_frame {
+		height: auto;
 	}
-	#aboutme .moving_frame .column.third {
+	#aboutme .moving_frame .column {
 		display: none;
 	}
 }
-@media only screen and (max-width: 760px) {
-	#aboutme .moving_frame .column {
-		width: calc(100%);
-	}
-	#aboutme .moving_frame .column.second {
-		display: none;
+@media only screen and (max-width: 1040px) {
+	#aboutme .moving_frame {
+		padding-top: 10vh;
 	}
 }
 
@@ -483,6 +480,15 @@ body.fixed {
 #aboutme .content .desc dd {
 	margin-top: 30px;
 	font-size: 0.875em;
+}
+@media only screen and (max-width: 1420px) {
+	#aboutme .content .sub_title {
+		background-color: #222;
+
+	}
+	#aboutme .content .sub_title h2 {
+		color: #caec33;
+	}
 }
 @media only screen and (max-width: 1040px) {
 	#aboutme .content .sub_title {
@@ -928,14 +934,14 @@ body.fixed {
 
 /* open source */
 #opensource {
-	padding: 8em 0;
+	padding: 8em 0 4em;
 	overflow: hidden;
 	background-color: #222;
 	border-radius: 30px 30px;
 }
 #opensource .title {
 	display: inline-block;
-	margin: 0 5em 5em;
+	margin: 0 5em 6em;
 }
 #opensource .title h3 {
 	font-size: 2em;
@@ -1076,7 +1082,8 @@ body.fixed {
 /* footer */
 #footer {
 	position: relative;
-	padding: 10em 4em 3em ;
+	padding: 10em 4em 3em;
+	
 }
 #footer .sub-topic {
 	display: block;
@@ -1118,9 +1125,9 @@ body.fixed {
 #footer .copyright::before {
 	content: "";
 	display: block;
-	position: absolute;
-	left: 0;
-	top: 0;
+	/* position: absolute; */
+	/* left: 0; */
+	/* top: 0; */
 	width: 100%;
 	height: 1px;
 	background-color: #444;
