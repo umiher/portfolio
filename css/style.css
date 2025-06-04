@@ -35,7 +35,7 @@ body.fixed {
 
 /* intro */
 .intro {
-	display: none;
+	display: flex;
 	position: fixed;
 	justify-content: center;
 	align-items: center;
