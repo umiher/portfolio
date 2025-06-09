@@ -85,7 +85,7 @@ React, Javascript, HTML, CSS, SCSS 등 사용 가능한 기술과 경험을 요�
  
 <br>
 
-🍀 [Visit Site](https://github.com/umiher/Project_wylie) 🍀
+🍀 [View More](https://github.com/umiher/Project_wylie) 🍀
 
 <br>
 <br>
