@@ -11,7 +11,7 @@
 
 <div align="center">
 	
-### ☁ [Visit Site](https://project-designpower.vercel.app/) ☁
+### ☁ [View More](https://umiher.github.io/portfolio/) ☁
 
 </div>
 
